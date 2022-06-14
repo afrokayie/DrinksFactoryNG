@@ -1,0 +1,136 @@
+
+
+*{
+    margin: 0;
+}
+
+
+
+body {
+  position:relative; 
+  padding-bottom: 15px;
+  font-family: 'Roboto', sans-serif;;
+  background-color:   #caebf2;
+  }
+
+header{
+    margin: 0 auto;
+    width: 100%;
+    height: 70px;
+    display: flex;
+    align-items: center; 
+    justify-content: space-around; 
+    background: ;
+    position:;
+    top: 0;
+    transition: 0.3s;
+    z-index:  ;
+}
+
+
+
+
+
+
+ .nav-bar{
+    list-style:none;
+    position: relative;
+    display: inline-flex;
+
+}
+
+a.nav-link{
+    font-weight: bold;
+    margin: 2px;
+    padding: 5px 10px;
+    text-decoration: none;
+    color:black;
+    cursor: pointer;
+    text-transform: ;
+}
+
+.butt{
+    margin-top: 20px;
+}
+
+button{
+    width: 150px;
+     margin: 4px;
+    padding: 5px 10px;
+    background-color: #71a9f7;
+    border-radius: 20px;
+}
+
+button a {
+    text-decoration: none;
+    color: black;
+
+}
+  
+
+
+
+
+
+
+
+
+
+}
+.image-pista ,.main-text{
+    flex-basis: 50%;
+}
+.image-pista img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+.swiper{
+    width: 20rem;
+}
+.swiper-slide{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: 50%;
+
+}
+
+.why-div{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  width: 50%;
+  line-height: 30px;
+
+}
+
+.butt-t{
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+
+.social-media{
+    padding: 10px;
+    display: flex;
+    position: center;
+  align-items: space-around;
+    justify-content:center;
+}
+
+.social-media a {
+    margin: 10px;
+    font-size: 1.0rem;
+    text-align:center;
+    display: inline-block;
+    color: black;
+    
+}
